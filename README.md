@@ -1,10 +1,10 @@
-## TRABALHO T2G1 LPOO I
+## TRABALHO T1G2 LPOO I
 
-> Sistema de Gerenciamento de contas bancárias
+> Sistema de Pedágio
 > Disciplina de LPOO (Linguagem de Programação Orientada a Objetos)
 > Universidade Luterana do Brasil - ULBRA Canoas
 
-> O sistema visa atribuir os conhecimentos em linguagem orientada a objetos juntamente com a utilização de herança de atributos e métodos utilizando a linguagem JAVA.
+> O sistema visa atribuir os conhecimentos em linguagem orientada a objetos juntamente com a utilização de interfaces, herança de atributos e métodos utilizando a linguagem JAVA.
 
 ### Tecnologias utilizadas:
 - JAVA
@@ -17,7 +17,6 @@
 
 ### Reponsáveis
 Maicon Esperafico
-
 Carlos Kasper
 
 
